@@ -1,0 +1,1 @@
+ Implemente um método rotate(r) que “gire” uma Lista para que o item de lista i se torne o item de lista (i + r) mod n. Quando executado em um ArrayDeque, rotate(r) deve ser executado em tempo O(1 + min{r, n − r}).
