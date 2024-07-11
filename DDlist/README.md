@@ -1,0 +1,1 @@
+Implemente o método rotate(r) que "rotaciona" uma DLList de modo que o item i da lista se torne o item (i + r) mod n. Este método deve executar em um tempo O(1 + min{r, n − r}) e não deve modificar nenhum nó na lista. Você deve completá-lo sem alocar novos nós ou arrays temporários
